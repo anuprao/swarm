@@ -1,3 +1,6 @@
+Barebones TUNTAP based virtual network simulation under Linux 
+
+*Credit : Inspired from https://github.com/takayuki/lwip-tap*
 
 # How to build
 
